@@ -1,0 +1,11 @@
+import sys
+import math
+
+a = int(input())
+b = int(input())
+h = int(input())
+
+print(h*(a+b)/2)
+
+#*i,=list(map(int,open(0)))
+#print(sum(i[:2])*i[2]/2)
